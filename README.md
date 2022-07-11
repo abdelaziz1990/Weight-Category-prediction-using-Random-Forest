@@ -1,7 +1,9 @@
 # Weight-Category-prediction-using-Random-Forest
 In this project, I perform a weight class prediction using the RandomForestClassifier  machine learning algorithm,The main Idea in this project, it's to take a Data set of 500 people with different characteristics, like weight, height and the gender and classify them by Weight,
+
 First of all, I download data from Kaggel, I do some data cleaning,
 Then I start my EDA,
+
 I use StandardScaler to bring everything on the same scale/range,
 I make my prediction with Random Forest and i use classification_report, confusion_matrix and accuracy_score as metrics.
 
